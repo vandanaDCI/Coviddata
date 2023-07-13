@@ -7,3 +7,6 @@ Step 2 ** Initialize a new Git repository**: ** Means we are making the file my_
     ```
 git init
 ```
+```
+    git commit -m "Version 0"
+```
